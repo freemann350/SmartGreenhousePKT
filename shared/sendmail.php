@@ -1,5 +1,5 @@
 <?php
-$to_email = "<EMAIL GOES HERE>";
+$to_email = "<YOUR EMAIL GOES HERE>";
 $subject = "Alerta de movimento!";
 $body = "Houve movimento na entrada da estufa!\r\nEntre na sua conta para verificar o que aconteceu.\r\n\r\nAcesso imediato: http://prsi.smartgreenhouse.net/estufa/ConsultaAcessos";
 $headers = "From: Smart Greenhouse BOT";
